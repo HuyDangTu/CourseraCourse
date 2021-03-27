@@ -4,16 +4,16 @@
     background-color: #9575CD;
 }
 
-/* .row-header{
-    margin: 0px auto;
-    padding:0px;
-} */
-/* */
+.row-header{
+    padding: 50px 0px 50px 0px;
+    min-height:200px;
+}
+
 .row-content {
     margin:0px auto;
-    padding: 50px 0px 50px 0px;
+    padding: 80px 0px 80px 0px;
     border-bottom: 1px ridge;
-    min-height:400px;
+    min-height:200px;
 }
 
 
@@ -25,7 +25,7 @@
 
 
 body{
-    padding:50px 0px 0px 0px;
+    /* /padding:50px 0px 0px 0px; */
     z-index:0;
 }
 
